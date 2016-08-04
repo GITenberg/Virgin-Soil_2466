@@ -1,0 +1,38 @@
+_repo: Virgin-Soil_2466
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Townsend, R. S.
+    alias: Townsend, Rochelle S.
+    gutenberg_agent_id: '923'
+    url: http://www.gutenberg.org/2009/agents/923
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: Translation of Nov
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revolutionaries -- Russia -- Fiction'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Russia -- Politics and government -- 1801-1917 -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Virgin Soil
+url: http://www.gutenberg.org/ebooks/2466
