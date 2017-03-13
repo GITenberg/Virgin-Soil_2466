@@ -1,11 +1,14 @@
 _repo: Virgin-Soil_2466
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Townsend, R. S.
     alias: Townsend, Rochelle S.
     gutenberg_agent_id: '923'
     url: http://www.gutenberg.org/2009/agents/923
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: Translation of Nov
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2466#Virgin-Soil
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
 identifiers:
